@@ -13,7 +13,7 @@ static/js => logic.css, config.css
 ## Site Image
 
 ### Level 1: Basic Visualization
-![Stage1](/images/stage1.png)
+![Stage1](/images/stage1.PNG)
 
 
 ### Level 2: More Data 
